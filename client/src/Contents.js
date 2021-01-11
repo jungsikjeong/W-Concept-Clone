@@ -46,15 +46,6 @@ const Item = styled.li`
   margin-bottom: 50px;
 `;
 
-const Button = styled.button`
-  display: block;
-  width: 18px;
-  height: 17px;
-  position: absolute;
-  top: 10px;
-  right: 10px;
-`;
-
 const TextWrapper = styled.div`
   padding: 5px 0px;
   line-height: 100%;
@@ -115,12 +106,6 @@ const TextWrapper = styled.div`
     }
   }
 `;
-
-{
-  /* <Button>
-<AiOutlineHeart />
-</Button> */
-}
 
 const contentsInfo = [
   {
